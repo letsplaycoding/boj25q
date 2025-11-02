@@ -23,6 +23,7 @@
 | 10998 | A*B   | [문제 보기](https://www.acmicpc.net/problem/10998) | [코드 보기](src/Arithmetic/boj10998.java) | 2025-11-02 |
 | 1008  | A/B   | [문제 보기](https://www.acmicpc.net/problem/1008)  | [코드 보기](src/Arithmetic/boj1008.java)  | 2025-11-02 |
 | 10869 | 사칙연산  | [문제 보기](https://www.acmicpc.net/problem/10869) | [코드 보기](src/Arithmetic/boj10869.java) | 2025-11-02 |
+| 10430 | 나머지   | [문제 보기](https://www.acmicpc.net/problem/10430) | [코드 보기](src/Arithmetic/boj10430.java) | 2025-11-02 |
 
 ---
 
