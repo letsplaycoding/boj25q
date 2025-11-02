@@ -1,8 +1,8 @@
-package Four_Basic_Operations;
+package Arithmetic;
 
 import java.util.Scanner;
 
-public class N10998 {
+public class boj1008 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -10,7 +10,7 @@ public class N10998 {
         int A = sc.nextInt();
         int B = sc.nextInt();
 
-        System.out.println(A * B);
+        System.out.println(A / B);
 
         sc.close();
     }

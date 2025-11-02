@@ -1,8 +1,8 @@
-package Four_Basic_Operations;
+package Arithmetic;
 
 import java.util.Scanner;
 
-public class N1000 {
+public class boj1000 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
