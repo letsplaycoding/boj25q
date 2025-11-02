@@ -10,7 +10,7 @@ public class boj1008 {
         int A = sc.nextInt();
         int B = sc.nextInt();
 
-        System.out.println(A / B);
+        System.out.println((double)A / B);
 
         sc.close();
     }
