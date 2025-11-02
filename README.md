@@ -9,7 +9,7 @@
 ## 📊 풀이 현황
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![Solved](https://img.shields.io/badge/Solved-3-success)
+![Solved](https://img.shields.io/badge/Solved-5-success)
 ![Baekjoon](https://img.shields.io/badge/Platform-Baekjoon-orange)
 
 ---
