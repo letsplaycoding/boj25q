@@ -21,7 +21,8 @@
 | 1000  | A+B   | [문제 보기](https://www.acmicpc.net/problem/1000)  | [코드 보기](src/Arithmetic/boj1000.java)  | 2025-11-02 |
 | 1001  | A-B   | [문제 보기](https://www.acmicpc.net/problem/1001)  | [코드 보기](src/Arithmetic/boj1001.java)  | 2025-11-02 |
 | 10998 | A*B   | [문제 보기](https://www.acmicpc.net/problem/10998) | [코드 보기](src/Arithmetic/boj10998.java) | 2025-11-02 |
-| 1008  | A/B   | [문제 보기](https://www.acmicpc.net/problem/1008)  | [코드 보기](src/Arithmetic/boj1008.java) | 2025-11-02 |
+| 1008  | A/B   | [문제 보기](https://www.acmicpc.net/problem/1008)  | [코드 보기](src/Arithmetic/boj1008.java)  | 2025-11-02 |
+| 10869 | 사칙연산  | [문제 보기](https://www.acmicpc.net/problem/10869) | [코드 보기](src/Arithmetic/boj10869.java) | 2025-11-02 |
 
 ---
 
