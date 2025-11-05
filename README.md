@@ -38,7 +38,7 @@
 | 8393  | 합          | [문제 보기](https://www.acmicpc.net/problem/8393)  | [코드 보기](src/Implementation구현/boj8393.java)  | 2025-11-05 |
 | 2439  | 별찍기2       | [문제 보기](https://www.acmicpc.net/problem/2439)  | [코드 보기](src/Implementation구현/boj2439.java)  | 2025-11-05 |
 | 10952 | A + B -5   | [문제 보기](https://www.acmicpc.net/problem/10952) | [코드 보기](src/Implementation구현/boj10952.java) | 2025-11-05 |
-| 10818 | 최소,최대값 구하기 | [문제 보기](https://www.acmicpc.net/problem/10818) | [코드 보기](src/Implementation구현/boj10818.java) | 2025-11-05 |
+| 10818 | 최소,최대 | [문제 보기](https://www.acmicpc.net/problem/10818) | [코드 보기](src/Implementation구현/boj10818.java) | 2025-11-05 |
 
 </details>
 
