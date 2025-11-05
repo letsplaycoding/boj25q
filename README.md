@@ -16,14 +16,15 @@
 
 ## 📚 문제 목록
 
-| 번호    | 문제 이름 | 링크                                             | 풀이 경로                                 | 날짜 |
-|-------|-------|------------------------------------------------|---------------------------------------|------|
-| 1000  | A+B   | [문제 보기](https://www.acmicpc.net/problem/1000)  | [코드 보기](src/Arithmetic/boj1000.java)  | 2025-11-02 |
-| 1001  | A-B   | [문제 보기](https://www.acmicpc.net/problem/1001)  | [코드 보기](src/Arithmetic/boj1001.java)  | 2025-11-02 |
-| 10998 | A*B   | [문제 보기](https://www.acmicpc.net/problem/10998) | [코드 보기](src/Arithmetic/boj10998.java) | 2025-11-02 |
-| 1008  | A/B   | [문제 보기](https://www.acmicpc.net/problem/1008)  | [코드 보기](src/Arithmetic/boj1008.java)  | 2025-11-02 |
-| 10869 | 사칙연산  | [문제 보기](https://www.acmicpc.net/problem/10869) | [코드 보기](src/Arithmetic/boj10869.java) | 2025-11-02 |
-| 10430 | 나머지   | [문제 보기](https://www.acmicpc.net/problem/10430) | [코드 보기](src/Arithmetic/boj10430.java) | 2025-11-02 |
+| 번호    | 문제 이름    | 링크                                             | 풀이 경로                                 | 날짜         |
+|-------|----------|------------------------------------------------|---------------------------------------|------------|
+| 1000  | A+B      | [문제 보기](https://www.acmicpc.net/problem/1000)  | [코드 보기](src/Arithmetic/boj1000.java)  | 2025-11-02 |
+| 1001  | A-B      | [문제 보기](https://www.acmicpc.net/problem/1001)  | [코드 보기](src/Arithmetic/boj1001.java)  | 2025-11-02 |
+| 10998 | A*B      | [문제 보기](https://www.acmicpc.net/problem/10998) | [코드 보기](src/Arithmetic/boj10998.java) | 2025-11-02 |
+| 1008  | A/B      | [문제 보기](https://www.acmicpc.net/problem/1008)  | [코드 보기](src/Arithmetic/boj1008.java)  | 2025-11-02 |
+| 10869 | 사칙연산     | [문제 보기](https://www.acmicpc.net/problem/10869) | [코드 보기](src/Arithmetic/boj10869.java) | 2025-11-02 |
+| 10430 | 나머지      | [문제 보기](https://www.acmicpc.net/problem/10430) | [코드 보기](src/Arithmetic/boj10430.java) | 2025-11-02 |
+| 10960 | A + B -3 | [문제 보기](https://www.acmicpc.net/problem/10950) | [코드 보기](src/Arithmetic/boj10950.java) | 2025-11-05 |
 
 ---
 
