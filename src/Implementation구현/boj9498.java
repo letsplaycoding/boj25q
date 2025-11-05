@@ -19,5 +19,6 @@ public class boj9498 {
         } else {
             System.out.println("F");
         }
+        sc.close();
     }
 }

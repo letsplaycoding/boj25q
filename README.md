@@ -22,10 +22,11 @@
 | 1001  | A-B      | [문제 보기](https://www.acmicpc.net/problem/1001)  | [코드 보기](src/Implementation구현/boj1001.java)  | 2025-11-02 |
 | 10998 | A*B      | [문제 보기](https://www.acmicpc.net/problem/10998) | [코드 보기](src/Implementation구현/boj10998.java) | 2025-11-02 |
 | 1008  | A/B      | [문제 보기](https://www.acmicpc.net/problem/1008)  | [코드 보기](src/Implementation구현/boj1008.java)  | 2025-11-02 |
-| 10869 | 사칙연산   | [문제 보기](https://www.acmicpc.net/problem/10869) | [코드 보기](src/Implementation구현/boj10869.java) | 2025-11-02 |
-| 10430 | 나머지    | [문제 보기](https://www.acmicpc.net/problem/10430) | [코드 보기](src/Implementation구현/boj10430.java) | 2025-11-02 |
+| 10869 | 사칙연산     | [문제 보기](https://www.acmicpc.net/problem/10869) | [코드 보기](src/Implementation구현/boj10869.java) | 2025-11-02 |
+| 10430 | 나머지      | [문제 보기](https://www.acmicpc.net/problem/10430) | [코드 보기](src/Implementation구현/boj10430.java) | 2025-11-02 |
 | 10960 | A + B -3 | [문제 보기](https://www.acmicpc.net/problem/10950) | [코드 보기](src/Implementation구현/boj10950.java) | 2025-11-05 |
-| 9498  | 시험성적   | [문제 보기](https://www.acmicpc.net/problem/9498)  | [코드 보기](src/Implementation구현/boj9498.java)  | 2025-11-05 |
+| 9498  | 시험성적     | [문제 보기](https://www.acmicpc.net/problem/9498)  | [코드 보기](src/Implementation구현/boj9498.java)  | 2025-11-05 |
+| 1330  | 두 수 비교하기 | [문제 보기](https://www.acmicpc.net/problem/1330)  | [코드 보기](src/Implementation구현/boj1330.java)  | 2025-11-05 |
 
 ---
 
