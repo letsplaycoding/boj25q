@@ -1,8 +1,8 @@
-package Arithmetic;
+package Implementation구현;
 
 import java.util.Scanner;
 
-public class boj10869 {
+public class boj1001 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
@@ -10,11 +10,7 @@ public class boj10869 {
         int A = sc.nextInt();
         int B = sc.nextInt();
 
-        System.out.println(A + B);
         System.out.println(A - B);
-        System.out.println(A * B);
-        System.out.println(A / B);
-        System.out.println(A % B);
 
         sc.close();
     }
