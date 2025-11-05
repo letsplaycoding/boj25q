@@ -28,11 +28,12 @@
 | 9498  | 시험성적     | [문제 보기](https://www.acmicpc.net/problem/9498)  | [코드 보기](src/Implementation구현/boj9498.java)  | 2025-11-05 |
 | 1330  | 두 수 비교하기 | [문제 보기](https://www.acmicpc.net/problem/1330)  | [코드 보기](src/Implementation구현/boj1330.java)  | 2025-11-05 |
 | 2739  | 구구단      | [문제 보기](https://www.acmicpc.net/problem/2739)  | [코드 보기](src/Implementation구현/boj2739.java)  | 2025-11-05 |
-| 2438  | 별찍기      | [문제 보기](https://www.acmicpc.net/problem/2438)  | [코드 보기](src/Implementation구현/boj2438.java)  | 2025-11-05 |
+| 2438  | 별찍기1     | [문제 보기](https://www.acmicpc.net/problem/2438)  | [코드 보기](src/Implementation구현/boj2438.java)  | 2025-11-05 |
 | 2753  | 윤년       | [문제 보기](https://www.acmicpc.net/problem/2753)  | [코드 보기](src/Implementation구현/boj2753.java)  | 2025-11-05 |
 | 10171 | 고양이      | [문제 보기](https://www.acmicpc.net/problem/10171) | [코드 보기](src/Implementation구현/boj10171.java) | 2025-11-05 |
 | 10172 | 개        | [문제 보기](https://www.acmicpc.net/problem/10172) | [코드 보기](src/Implementation구현/boj10172.java) | 2025-11-05 |
 | 8393  | 합        | [문제 보기](https://www.acmicpc.net/problem/8393)  | [코드 보기](src/Implementation구현/boj8393.java)  | 2025-11-05 |
+| 2439  | 별찍기2     | [문제 보기](https://www.acmicpc.net/problem/2439)  | [코드 보기](src/Implementation구현/boj2439.java)  | 2025-11-05 |
 
 ---
 
