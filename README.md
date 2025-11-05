@@ -9,12 +9,15 @@
 ## 📊 풀이 현황
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![Solved](https://img.shields.io/badge/Solved-5-success)
+![Solved](https://img.shields.io/badge/Solved-17-success)
 ![Baekjoon](https://img.shields.io/badge/Platform-Baekjoon-orange)
 
 ---
 
-## 📚 문제 목록
+<details>
+<summary><b>📚 문제 목록 보기 (클릭해서 펼치기)</b></summary>
+
+<br>
 
 | 번호    | 문제 이름    | 링크                                             | 풀이 경로                                       | 날짜         |
 |-------|----------|------------------------------------------------|---------------------------------------------|------------|
@@ -36,6 +39,7 @@
 | 2439  | 별찍기2     | [문제 보기](https://www.acmicpc.net/problem/2439)  | [코드 보기](src/Implementation구현/boj2439.java)  | 2025-11-05 |
 | 10952 | A + B -5 | [문제 보기](https://www.acmicpc.net/problem/10952) | [코드 보기](src/Implementation구현/boj10952.java) | 2025-11-05 |
 
+</details>
 ---
 
 ## 💡 규칙
