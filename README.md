@@ -24,7 +24,7 @@
 | 1008  | A/B      | [문제 보기](https://www.acmicpc.net/problem/1008)  | [코드 보기](src/Implementation구현/boj1008.java)  | 2025-11-02 |
 | 10869 | 사칙연산     | [문제 보기](https://www.acmicpc.net/problem/10869) | [코드 보기](src/Implementation구현/boj10869.java) | 2025-11-02 |
 | 10430 | 나머지      | [문제 보기](https://www.acmicpc.net/problem/10430) | [코드 보기](src/Implementation구현/boj10430.java) | 2025-11-02 |
-| 10960 | A + B -3 | [문제 보기](https://www.acmicpc.net/problem/10950) | [코드 보기](src/Implementation구현/boj10950.java) | 2025-11-05 |
+| 10950 | A + B -3 | [문제 보기](https://www.acmicpc.net/problem/10950) | [코드 보기](src/Implementation구현/boj10950.java) | 2025-11-05 |
 | 9498  | 시험성적     | [문제 보기](https://www.acmicpc.net/problem/9498)  | [코드 보기](src/Implementation구현/boj9498.java)  | 2025-11-05 |
 | 1330  | 두 수 비교하기 | [문제 보기](https://www.acmicpc.net/problem/1330)  | [코드 보기](src/Implementation구현/boj1330.java)  | 2025-11-05 |
 | 2739  | 구구단      | [문제 보기](https://www.acmicpc.net/problem/2739)  | [코드 보기](src/Implementation구현/boj2739.java)  | 2025-11-05 |
@@ -34,6 +34,7 @@
 | 10172 | 개        | [문제 보기](https://www.acmicpc.net/problem/10172) | [코드 보기](src/Implementation구현/boj10172.java) | 2025-11-05 |
 | 8393  | 합        | [문제 보기](https://www.acmicpc.net/problem/8393)  | [코드 보기](src/Implementation구현/boj8393.java)  | 2025-11-05 |
 | 2439  | 별찍기2     | [문제 보기](https://www.acmicpc.net/problem/2439)  | [코드 보기](src/Implementation구현/boj2439.java)  | 2025-11-05 |
+| 10952 | A + B -5 | [문제 보기](https://www.acmicpc.net/problem/10952) | [코드 보기](src/Implementation구현/boj10952.java) | 2025-11-05 |
 
 ---
 
