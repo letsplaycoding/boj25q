@@ -27,6 +27,7 @@
 | 10960 | A + B -3 | [문제 보기](https://www.acmicpc.net/problem/10950) | [코드 보기](src/Implementation구현/boj10950.java) | 2025-11-05 |
 | 9498  | 시험성적     | [문제 보기](https://www.acmicpc.net/problem/9498)  | [코드 보기](src/Implementation구현/boj9498.java)  | 2025-11-05 |
 | 1330  | 두 수 비교하기 | [문제 보기](https://www.acmicpc.net/problem/1330)  | [코드 보기](src/Implementation구현/boj1330.java)  | 2025-11-05 |
+| 2739  | 구구단      | [문제 보기](https://www.acmicpc.net/problem/2739)  | [코드 보기](src/Implementation구현/boj2739.java)  | 2025-11-05 |
 
 ---
 
