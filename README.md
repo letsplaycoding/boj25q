@@ -29,6 +29,7 @@
 | 1330  | 두 수 비교하기 | [문제 보기](https://www.acmicpc.net/problem/1330)  | [코드 보기](src/Implementation구현/boj1330.java)  | 2025-11-05 |
 | 2739  | 구구단      | [문제 보기](https://www.acmicpc.net/problem/2739)  | [코드 보기](src/Implementation구현/boj2739.java)  | 2025-11-05 |
 | 2438  | 별찍기      | [문제 보기](https://www.acmicpc.net/problem/2438)  | [코드 보기](src/Implementation구현/boj2438.java)  | 2025-11-05 |
+| 2753  | 윤년       | [문제 보기](https://www.acmicpc.net/problem/2753)  | [코드 보기](src/Implementation구현/boj2753.java)  | 2025-11-05 |
 
 ---
 
