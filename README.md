@@ -46,6 +46,7 @@
 | 10951 | A + B - 4 | [문제 보기](https://www.acmicpc.net/problem/10951) | [코드 보기](src/Implementation구현/boj10951.java) | 2025-11-06 |
 | 14681 | 사분면 고르기   | [문제 보기](https://www.acmicpc.net/problem/14681) | [코드 보기](src/Implementation구현/boj14681.java) | 2025-11-06 |
 | 11022 | A + B - 8 | [문제 보기](https://www.acmicpc.net/problem/11022) | [코드 보기](src/Implementation구현/boj11022.java) | 2025-11-06 |
+| 2741  | A + B - 8 | [문제 보기](https://www.acmicpc.net/problem/2741) | [코드 보기](src/Implementation구현/boj2741.java) | 2025-11-06 |
 
 </details>
 
