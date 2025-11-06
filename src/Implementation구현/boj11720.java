@@ -14,5 +14,6 @@ public class boj11720 {
         }
 
         System.out.println(sum);
+        sc.close();
     }
 }
