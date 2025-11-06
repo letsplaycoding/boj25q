@@ -23,5 +23,4 @@ public class boj2741 {
 //
 //        System.out.print(sb);
     }
-    }
 }
