@@ -41,6 +41,7 @@
 | 10818 | 최소,최대     | [문제 보기](https://www.acmicpc.net/problem/10818) | [코드 보기](src/Implementation구현/boj10818.java) | 2025-11-05 |
 | 10926 | ??!       | [문제 보기](https://www.acmicpc.net/problem/10926) | [코드 보기](src/Implementation구현/boj10926.java) | 2025-11-05 |
 | 10871 | X 보다 작은 수 | [문제 보기](https://www.acmicpc.net/problem/10871) | [코드 보기](src/Implementation구현/boj10871.java) | 2025-11-06 |
+| 2562  | 최댓값       | [문제 보기](https://www.acmicpc.net/problem/2562)  | [코드 보기](src/Implementation구현/boj2562.java)  | 2025-11-06 |
 
 </details>
 
