@@ -49,6 +49,7 @@
 | 2741  | A + B - 8 | [문제 보기](https://www.acmicpc.net/problem/2741)  | [코드 보기](src/Implementation구현/boj2741.java)  | 2025-11-06 |
 | 11720 | 숫자의 합     | [문제 보기](https://www.acmicpc.net/problem/11720) | [코드 보기](src/Implementation구현/boj11720.java) | 2025-11-06 |
 | 11654 | 아스키 코드    | [문제 보기](https://www.acmicpc.net/problem/11654) | [코드 보기](src/Implementation구현/boj11654.java) | 2025-11-09 |
+| 1152  | 단어의 개수    | [문제 보기](https://www.acmicpc.net/problem/1152) | [코드 보기](src/Implementation구현/boj1152.java) | 2025-11-09 |
 
 </details>
 
