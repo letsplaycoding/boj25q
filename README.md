@@ -51,6 +51,7 @@
 | 11654 | 아스키 코드    | [문제 보기](https://www.acmicpc.net/problem/11654) | [코드 보기](src/Implementation구현/boj11654.java) | 2025-11-09 |
 | 1152  | 단어의 개수    | [문제 보기](https://www.acmicpc.net/problem/1152) | [코드 보기](src/Implementation구현/boj1152.java) | 2025-11-09 |
 | 2480  | 주사위 세개    | [문제 보기](https://www.acmicpc.net/problem/2480) | [코드 보기](src/Implementation구현/boj2480.java) | 2025-11-09 |
+| 2742  | 기찍 N      | [문제 보기](https://www.acmicpc.net/problem/2742) | [코드 보기](src/Implementation구현/boj2742.java) | 2025-11-10 |
 
 </details>
 
